@@ -19,8 +19,6 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     // GitHub Test Project
-    
-    // GitHub Test Project Change 2
 }
 
 
